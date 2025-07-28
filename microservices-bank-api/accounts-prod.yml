@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Bank MS: Accounts prod APIs "
+  message: "Bank MS: Accounts production APIs "
   contactDetails:
     name: "Product Owner"
     email: "owner@gmail.com"

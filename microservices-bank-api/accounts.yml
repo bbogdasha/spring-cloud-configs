@@ -2,7 +2,7 @@ build:
   version: "1.0.0-dev"
 
 accounts:
-  message: "Bank MS: Accounts dev APIs "
+  message: "Bank MS: Accounts dev APIs (docker)"
   contactDetails:
     name: "Dev"
     email: "dev@gmail.com"
